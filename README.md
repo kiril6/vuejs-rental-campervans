@@ -1,6 +1,6 @@
 # vue-rental-campervans
 
-Accessing url: https://kiril6.github.io/https:/kiril6.github.io/vuejs-rental-campervans/
+Accessing url: https://kiril6.github.io/vuejs-rental-campervans/
 
 ## Project setup
 ```
